@@ -32,6 +32,6 @@ written by me under a code clause python development internship.
     * Font Style - Change The Font Style.
     * Font Size - Change The Font Size.
 ## Screenshots
-
+    ![Text Editor](demo.png)
 
 
